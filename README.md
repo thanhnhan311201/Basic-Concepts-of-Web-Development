@@ -41,6 +41,8 @@ Tham khảo: [What happens when you type a URL in the browser and press enter?](
 
 ## 14. Mô hình OSI là gì?
 
+## 15. Mô hình TCP/IP là gì?
+
 ## 15. Static website là gì? Dynamic Website là gì?
 
 ## 16. Server Side Rendering là gì? Client Side Rendering là gì?
