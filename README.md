@@ -52,3 +52,5 @@ Tham khảo: [What happens when you type a URL in the browser and press enter?](
 ### 2. Client Side Rendering
 
 ## 17. Front-end là gì? Back-end là gì?
+
+## 18. Browser có bao nhiêu store để lưu data? (cookies, session storage, local storage, cache storage, indexdDB, shared storage, web SQL)
